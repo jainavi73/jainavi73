@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jainavi73
-- 👀 I’m interested in R based projects
-- 🌱 I’m currently learning R
+- 👀 I’m interested in R, Python and SQL based projects
 - 💞️ I’m looking to collaborate on data science projects
 
 <!---
